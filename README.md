@@ -1,3 +1,30 @@
+# Creating new blog articles
+
+Install [node & npm](https://nodejs.org/en/download/), [yarn](https://classic.yarnpkg.com/en/docs/install), and [gatsby cli](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
+
+Clone this repo
+
+Navigate into your cloned repo directory and start it up.
+
+```sh
+cd blog
+gatsby develop
+```
+
+The PeTaL blog is now running at `http://localhost:8000`!
+
+Duplicate an existing or create a new markdown (.md) file in `content/posts`
+
+Write your post in [markdown](https://www.markdownguide.org/cheat-sheet/) and save the file.
+
+Put any images you want to embed in your article in `static/media/YYYY-MM-DD` 
+
+Preview your blog post at `http://localhost:8000`
+
+To publish the new post to the live site run `yarn deploy`
+
+In a minute or so, your post will be live on https://nasa-petal.github.io/blog/
+
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
     Lumen
