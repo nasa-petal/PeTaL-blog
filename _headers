@@ -29,7 +29,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-fdd8536acd3c57081720.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-c64ecc1e56c0d3ae5213.js
+/webpack-runtime-32d30fe133bb7654d4b8.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-3f35191b7c4a46711e81.js
   Cache-Control: public, max-age=31536000, immutable
@@ -37,117 +37,117 @@
   Cache-Control: public, max-age=31536000, immutable
 /dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js
   Cache-Control: public, max-age=31536000, immutable
-/app-3b84f4b2dfafc1f4d7c5.js
+/app-f2a5edfe66a627564458.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/PeTaL-blog/offline-plugin-app-shell-fallback/
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/404
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/tags
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-tags-list-template-js-c9a3bdc0c94b613711f2.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/categories
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/posts/engineering-elegance-from-nature
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-post-template-js-46b60604db6ba7d15094.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/posts/engineering-elegance-from-nature/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/tag/labeller
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-tag-template-js-af28269e7647e9099e9b.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/tag/labeller/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/category/updates
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/category/updates/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/PeTaL-blog/404.html
-  Link: </PeTaL-blog/webpack-runtime-c64ecc1e56c0d3ae5213.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
-  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
-  Link: </PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js>; rel=preload; as=script
-  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </PeTaL-blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
-  Link: </PeTaL-blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
-  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </PeTaL-blog/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/offline-plugin-app-shell-fallback/
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/404
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/tags
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-tags-list-template-js-c9a3bdc0c94b613711f2.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/categories
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/posts/engineering-elegance-from-nature
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-post-template-js-46b60604db6ba7d15094.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/posts/engineering-elegance-from-nature/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/tag/labeller
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-tag-template-js-af28269e7647e9099e9b.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/tag/labeller/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/category/updates
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/category/updates/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/404.html
+  Link: </blog/webpack-runtime-32d30fe133bb7654d4b8.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/framework-3f35191b7c4a46711e81.js>; rel=preload; as=script
+  Link: </blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </blog/app-f2a5edfe66a627564458.js>; rel=preload; as=script
+  Link: </blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </blog/b40c11bee3846ca70ab17cd1bc776b2e57af83cb-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </blog/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PeTaL Blog]]></title><description><![CDATA[Latest news and updates from the PeTaL dev team.]]></description><link>https://nasa-petal.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 May 2021 17:38:33 GMT</lastBuildDate><item><title><![CDATA[Engineering Elegance from Nature: An Interactive Search Tool for Biomimetics]]></title><description><![CDATA[Biologically inspired design derived from the process of learning from nature has created an entire field that aims to integrate design approaches influenced by nature and living systems. From this stems biomimetics, an interdisciplinary design method that strives to emulate how organisms tackle fundamental problems in engineering. Bridging the gap between biological systems and human technology has incentivized a bottom-up approach for biologically inspired design that focuses on the principles of biomimicry and biomimetics. ]]></description><link>https://nasa-petal.github.io/posts/engineering-elegance-from-nature</link><guid isPermaLink="false">https://nasa-petal.github.io/posts/engineering-elegance-from-nature</guid><pubDate>Thu, 29 Apr 2021 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PeTaL Blog]]></title><description><![CDATA[Latest news and updates from the PeTaL dev team.]]></description><link>https://nasa-petal.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 May 2021 18:27:50 GMT</lastBuildDate><item><title><![CDATA[Engineering Elegance from Nature: An Interactive Search Tool for Biomimetics]]></title><description><![CDATA[Biologically inspired design derived from the process of learning from nature has created an entire field that aims to integrate design approaches influenced by nature and living systems. From this stems biomimetics, an interdisciplinary design method that strives to emulate how organisms tackle fundamental problems in engineering. Bridging the gap between biological systems and human technology has incentivized a bottom-up approach for biologically inspired design that focuses on the principles of biomimicry and biomimetics. ]]></description><link>https://nasa-petal.github.io/posts/engineering-elegance-from-nature</link><guid isPermaLink="false">https://nasa-petal.github.io/posts/engineering-elegance-from-nature</guid><pubDate>Thu, 29 Apr 2021 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/a42c7/jungle.jpg&quot;
+    href=&quot;/blog/static/3189f19dfd0b350c6564cd26eca377a8/a42c7/jungle.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -15,24 +15,24 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/8ac56/jungle.webp 240w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/d3be9/jungle.webp 480w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/e46b2/jungle.webp 960w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/879a2/jungle.webp 1263w&quot;
+              srcset=&quot;/blog/static/3189f19dfd0b350c6564cd26eca377a8/8ac56/jungle.webp 240w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/d3be9/jungle.webp 480w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/e46b2/jungle.webp 960w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/879a2/jungle.webp 1263w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/09b79/jungle.jpg 240w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/7cc5e/jungle.jpg 480w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/6a068/jungle.jpg 960w,
-/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/a42c7/jungle.jpg 1263w&quot;
+            srcset=&quot;/blog/static/3189f19dfd0b350c6564cd26eca377a8/09b79/jungle.jpg 240w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/7cc5e/jungle.jpg 480w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/6a068/jungle.jpg 960w,
+/blog/static/3189f19dfd0b350c6564cd26eca377a8/a42c7/jungle.jpg 1263w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
             type=&quot;image/jpeg&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/3189f19dfd0b350c6564cd26eca377a8/6a068/jungle.jpg&quot;
+            src=&quot;/blog/static/3189f19dfd0b350c6564cd26eca377a8/6a068/jungle.jpg&quot;
             alt=&quot;Lush jungle&quot;
             title=&quot;Lush jungle&quot;
             loading=&quot;lazy&quot;
@@ -50,7 +50,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png&quot;
+    href=&quot;/blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -61,22 +61,22 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/8ac56/architecture.webp 240w,
-/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/d3be9/architecture.webp 480w,
-/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/184c4/architecture.webp 833w&quot;
+              srcset=&quot;/blog/static/758cd5fa658276fe6851322aba3e0e23/8ac56/architecture.webp 240w,
+/blog/static/758cd5fa658276fe6851322aba3e0e23/d3be9/architecture.webp 480w,
+/blog/static/758cd5fa658276fe6851322aba3e0e23/184c4/architecture.webp 833w&quot;
               sizes=&quot;(max-width: 833px) 100vw, 833px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/8ff5a/architecture.png 240w,
-/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/e85cb/architecture.png 480w,
-/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png 833w&quot;
+            srcset=&quot;/blog/static/758cd5fa658276fe6851322aba3e0e23/8ff5a/architecture.png 240w,
+/blog/static/758cd5fa658276fe6851322aba3e0e23/e85cb/architecture.png 480w,
+/blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png 833w&quot;
             sizes=&quot;(max-width: 833px) 100vw, 833px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png&quot;
+            src=&quot;/blog/static/758cd5fa658276fe6851322aba3e0e23/5205c/architecture.png&quot;
             alt=&quot;Figure 1: The planned architecture for PeTaL, and the cloud infrastructure workflow for the labeler&quot;
             title=&quot;Figure 1: The planned architecture for PeTaL, and the cloud infrastructure workflow for the labeler&quot;
             loading=&quot;lazy&quot;
@@ -92,7 +92,7 @@ Figure 1: The planned architecture for PeTaL, and the cloud infrastructure workf
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png&quot;
+    href=&quot;/blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -103,22 +103,22 @@ Figure 1: The planned architecture for PeTaL, and the cloud infrastructure workf
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/8ac56/sw-arch.webp 240w,
-/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/d3be9/sw-arch.webp 480w,
-/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/65afa/sw-arch.webp 738w&quot;
+              srcset=&quot;/blog/static/14d06dd6096022172d2f476a880149c2/8ac56/sw-arch.webp 240w,
+/blog/static/14d06dd6096022172d2f476a880149c2/d3be9/sw-arch.webp 480w,
+/blog/static/14d06dd6096022172d2f476a880149c2/65afa/sw-arch.webp 738w&quot;
               sizes=&quot;(max-width: 738px) 100vw, 738px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/8ff5a/sw-arch.png 240w,
-/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/e85cb/sw-arch.png 480w,
-/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png 738w&quot;
+            srcset=&quot;/blog/static/14d06dd6096022172d2f476a880149c2/8ff5a/sw-arch.png 240w,
+/blog/static/14d06dd6096022172d2f476a880149c2/e85cb/sw-arch.png 480w,
+/blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png 738w&quot;
             sizes=&quot;(max-width: 738px) 100vw, 738px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png&quot;
+            src=&quot;/blog/static/14d06dd6096022172d2f476a880149c2/774b6/sw-arch.png&quot;
             alt=&quot;Figure 2: The earliest architecture of BIRD, developed by 2019 PeTaL intern Lauren Friend&quot;
             title=&quot;Figure 2: The earliest architecture of BIRD, developed by 2019 PeTaL intern Lauren Friend&quot;
             loading=&quot;lazy&quot;
@@ -136,7 +136,7 @@ Figure 2: The earliest architecture of BIRD, developed by 2019 PeTaL intern Laur
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png&quot;
+    href=&quot;/blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -147,22 +147,22 @@ Figure 2: The earliest architecture of BIRD, developed by 2019 PeTaL intern Laur
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/8ac56/text-classification.webp 240w,
-/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/d3be9/text-classification.webp 480w,
-/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/4578a/text-classification.webp 757w&quot;
+              srcset=&quot;/blog/static/bfa84e84c53d1f4bea390c9d6b042172/8ac56/text-classification.webp 240w,
+/blog/static/bfa84e84c53d1f4bea390c9d6b042172/d3be9/text-classification.webp 480w,
+/blog/static/bfa84e84c53d1f4bea390c9d6b042172/4578a/text-classification.webp 757w&quot;
               sizes=&quot;(max-width: 757px) 100vw, 757px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/8ff5a/text-classification.png 240w,
-/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/e85cb/text-classification.png 480w,
-/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png 757w&quot;
+            srcset=&quot;/blog/static/bfa84e84c53d1f4bea390c9d6b042172/8ff5a/text-classification.png 240w,
+/blog/static/bfa84e84c53d1f4bea390c9d6b042172/e85cb/text-classification.png 480w,
+/blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png 757w&quot;
             sizes=&quot;(max-width: 757px) 100vw, 757px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png&quot;
+            src=&quot;/blog/static/bfa84e84c53d1f4bea390c9d6b042172/1fbe8/text-classification.png&quot;
             alt=&quot;How a simple text classification process with a machine learning model works (Image from katacoda.com)&quot;
             title=&quot;How a simple text classification process with a machine learning model works (Image from katacoda.com)&quot;
             loading=&quot;lazy&quot;
@@ -179,7 +179,7 @@ How a simple text classification process with a machine learning model works (Im
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
+    href=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -190,22 +190,22 @@ How a simple text classification process with a machine learning model works (Im
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/8ac56/taxonomy.webp 240w,
-/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/d3be9/taxonomy.webp 480w,
-/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/29722/taxonomy.webp 534w&quot;
+              srcset=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/8ac56/taxonomy.webp 240w,
+/blog/static/1fd7a112edff979496179f37e0b73dfd/d3be9/taxonomy.webp 480w,
+/blog/static/1fd7a112edff979496179f37e0b73dfd/29722/taxonomy.webp 534w&quot;
               sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/8ff5a/taxonomy.png 240w,
-/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/e85cb/taxonomy.png 480w,
-/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png 534w&quot;
+            srcset=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/8ff5a/taxonomy.png 240w,
+/blog/static/1fd7a112edff979496179f37e0b73dfd/e85cb/taxonomy.png 480w,
+/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png 534w&quot;
             sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
+            src=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
             alt=&quot;The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&quot;
             title=&quot;The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&quot;
             loading=&quot;lazy&quot;
@@ -221,7 +221,7 @@ The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/29007/ml.png&quot;
+    href=&quot;/blog/static/bf60f847e4dc1478a64a7bb85b04e640/29007/ml.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -232,26 +232,26 @@ The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/8ac56/ml.webp 240w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/d3be9/ml.webp 480w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/e46b2/ml.webp 960w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/f992d/ml.webp 1440w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/fad48/ml.webp 1600w&quot;
+              srcset=&quot;/blog/static/bf60f847e4dc1478a64a7bb85b04e640/8ac56/ml.webp 240w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/d3be9/ml.webp 480w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/e46b2/ml.webp 960w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/f992d/ml.webp 1440w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/fad48/ml.webp 1600w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/8ff5a/ml.png 240w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/e85cb/ml.png 480w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/d9199/ml.png 960w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/07a9c/ml.png 1440w,
-/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/29007/ml.png 1600w&quot;
+            srcset=&quot;/blog/static/bf60f847e4dc1478a64a7bb85b04e640/8ff5a/ml.png 240w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/e85cb/ml.png 480w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/d9199/ml.png 960w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/07a9c/ml.png 1440w,
+/blog/static/bf60f847e4dc1478a64a7bb85b04e640/29007/ml.png 1600w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/bf60f847e4dc1478a64a7bb85b04e640/d9199/ml.png&quot;
+            src=&quot;/blog/static/bf60f847e4dc1478a64a7bb85b04e640/d9199/ml.png&quot;
             alt=&quot;Figure 5: Transformers architecture, with an emphasis on the attention layers that are amplified through a scaled dot-product process, repeated in parallel with multiple heads (Image from towardsdatascience.com)&quot;
             title=&quot;Figure 5: Transformers architecture, with an emphasis on the attention layers that are amplified through a scaled dot-product process, repeated in parallel with multiple heads (Image from towardsdatascience.com)&quot;
             loading=&quot;lazy&quot;
@@ -269,7 +269,7 @@ Figure 5: Transformers architecture, with an emphasis on the attention layers th
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png&quot;
+    href=&quot;/blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -280,22 +280,22 @@ Figure 5: Transformers architecture, with an emphasis on the attention layers th
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/8ac56/transformer.webp 240w,
-/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/d3be9/transformer.webp 480w,
-/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/21dbd/transformer.webp 876w&quot;
+              srcset=&quot;/blog/static/3a690a2ea178f550028748fdbb5c3996/8ac56/transformer.webp 240w,
+/blog/static/3a690a2ea178f550028748fdbb5c3996/d3be9/transformer.webp 480w,
+/blog/static/3a690a2ea178f550028748fdbb5c3996/21dbd/transformer.webp 876w&quot;
               sizes=&quot;(max-width: 876px) 100vw, 876px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/8ff5a/transformer.png 240w,
-/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/e85cb/transformer.png 480w,
-/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png 876w&quot;
+            srcset=&quot;/blog/static/3a690a2ea178f550028748fdbb5c3996/8ff5a/transformer.png 240w,
+/blog/static/3a690a2ea178f550028748fdbb5c3996/e85cb/transformer.png 480w,
+/blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png 876w&quot;
             sizes=&quot;(max-width: 876px) 100vw, 876px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/PeTaL-blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png&quot;
+            src=&quot;/blog/static/3a690a2ea178f550028748fdbb5c3996/1b1d5/transformer.png&quot;
             alt=&quot;Figure 6: Transformer network layers and embeddings with the added classification layer (Image from towardsdatascience.com)&quot;
             title=&quot;Figure 6: Transformer network layers and embeddings with the added classification layer (Image from towardsdatascience.com)&quot;
             loading=&quot;lazy&quot;
