@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-8fee067ea30f983c53d9.js"
+    "url": "webpack-runtime-c64ecc1e56c0d3ae5213.js"
   },
   {
     "url": "styles.08b6f1b92a40a3f4c705.css"
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "styles-407fe62976dc5310c43e.js"
   },
   {
-    "url": "framework-b2f816f437730bdc94bf.js"
+    "url": "framework-3f35191b7c4a46711e81.js"
   },
   {
     "url": "532a2f07-549094fa347c85980056.js"
@@ -45,11 +45,11 @@ self.__precacheManifest = [
     "url": "dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js"
   },
   {
-    "url": "app-3838e26289103b717588.js"
+    "url": "app-3b84f4b2dfafc1f4d7c5.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "dd85ba5c9f6d6eb670018c86270b3639"
+    "revision": "ccf1c467b4115cfd70b0ad6fc255c399"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
@@ -60,10 +60,10 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "34aa2d481fc1167662bdcccb663a3915"
+    "revision": "4ba296eef3b550bf15f177ffd2ffc21c"
   },
   {
-    "url": "polyfill-8de6de3a6555a9e76093.js"
+    "url": "polyfill-2d6529c0e24a4fee3d05.js"
   },
   {
     "url": "manifest.json",
@@ -163,7 +163,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/PeTaL-blog/app-3838e26289103b717588.js`))) {
+  if (!resources || !(await caches.match(`/PeTaL-blog/app-3b84f4b2dfafc1f4d7c5.js`))) {
     return await fetch(event.request)
   }
 
