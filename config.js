@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://nasa-petal.github.io/PeTaL-blog',
-  pathPrefix: '/',
+  url: 'https://nasa-petal.github.io',
+  pathPrefix: '/PeTaL-blog',
   title: 'PeTaL Blog',
   subtitle: 'Latest news and updates from the PeTaL dev team.',
   copyright: '',
