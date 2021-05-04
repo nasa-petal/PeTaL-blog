@@ -11,7 +11,7 @@ description: "Biologically inspired design derived from the process of learning 
 socialImage: "/media/2021-04-29/jungle.jpeg"
 ---
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/2021-04-29/jungle.jpeg)
+![Lush jungle](/media/2021-04-29/jungle.jpeg)
 
 Biologically inspired design derived from the process of learning from nature has created an entire field that aims to integrate design approaches influenced by nature and living systems. From this stems biomimetics, an interdisciplinary design method that strives to emulate how organisms tackle fundamental problems in engineering. Bridging the gap between biological systems and human technology has incentivized a bottom-up approach for biologically inspired design that focuses on the principles of biomimicry and biomimetics. 
 
