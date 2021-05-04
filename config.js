@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://nasa-petal.github.io',
-  pathPrefix: '/PeTaL-blog',
+  pathPrefix: '/blog',
   title: 'PeTaL Blog',
   subtitle: 'Latest news and updates from the PeTaL dev team.',
   copyright: '',
