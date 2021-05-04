@@ -1,0 +1,383 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.08b6f1b92a40a3f4c705.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-407fe62976dc5310c43e.js
+  Cache-Control: public, max-age=31536000, immutable
+/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-658f4507169e2836a377.js
+  Cache-Control: public, max-age=31536000, immutable
+/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-fdd8536acd3c57081720.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-8fee067ea30f983c53d9.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-b2f816f437730bdc94bf.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-549094fa347c85980056.js
+  Cache-Control: public, max-age=31536000, immutable
+/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-3838e26289103b717588.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/PeTaL-blog/offline-plugin-app-shell-fallback/
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/404
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tags
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/categories
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-baa06f234ff8b8a837e8.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/posts/a-brief-history-of-typography
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/posts/perfecting-the-art-of-perfection
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/posts/the-origins-of-social-stationery-lettering
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/posts/the-birth-of-movable-type
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/pages/contacts/
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/posts/humane-typography-in-the-digital-age
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-post-template-js-f23f8072cea1fbd3b949.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/pages/about/
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-page-template-js-d8aeb4e67f2e8af3e6cd.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/design
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/design/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/gatsby
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/handwriting
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/handwriting/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/helvetica
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/helvetica/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/history-of-typography
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/learning-to-write
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/learning-to-write/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/linotype
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/linotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/monotype
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/monotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/open-source
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/typography
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/tag/web-development
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-tag-template-js-6f77d5f667fd901ff51f.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/tag/web-development/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/category/design-culture
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/category/design-culture/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/category/design-inspiration
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/category/design-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/category/typography
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-category-template-js-6a4ccb9f4a6261541e29.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/category/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/page/1
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-index-template-js-fdd8536acd3c57081720.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/page/1/page-data.json>; rel=preload; as=fetch; crossorigin
+/PeTaL-blog/404.html
+  Link: </PeTaL-blog/webpack-runtime-8fee067ea30f983c53d9.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/framework-b2f816f437730bdc94bf.js>; rel=preload; as=script
+  Link: </PeTaL-blog/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </PeTaL-blog/dc6a8720040df98778fe970bf6c000a41750d3ae-591a6db786ba3a757160.js>; rel=preload; as=script
+  Link: </PeTaL-blog/app-3838e26289103b717588.js>; rel=preload; as=script
+  Link: </PeTaL-blog/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </PeTaL-blog/cd95ea5cbd2c605f26db819f07999610c9ff4310-69626fa07c736046dbe7.js>; rel=preload; as=script
+  Link: </PeTaL-blog/component---src-templates-not-found-template-js-658f4507169e2836a377.js>; rel=preload; as=script
+  Link: </PeTaL-blog/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </PeTaL-blog/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
