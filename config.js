@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'PeTaL Team',
     photo: '/petal-logo.png',
-    bio: 'Latest news and updates from the PeTaL dev team.',
+    bio: 'Latest news and updates from the PeTaL team.',
     contacts: {
       email: '',
       facebook: '',
