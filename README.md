@@ -15,7 +15,7 @@ The PeTaL blog is now running at `http://localhost:8000`!
 
 Duplicate an existing or create a new markdown (.md) file in `content/posts`
 
-Write your post in markdown format and save the file.
+Write your post in [markdown](https://www.markdownguide.org/cheat-sheet/) and save the file.
 
 Put any images you want to embed in your article in `static/media/YYYY-MM-DD` 
 
