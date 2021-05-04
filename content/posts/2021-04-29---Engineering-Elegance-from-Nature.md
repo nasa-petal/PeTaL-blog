@@ -59,6 +59,8 @@ Through our development of a cloud infrastructure, the labeling model will be im
 
 The PeTaL team is continuing to develop an MVP with a growing team of NASA engineers, interns, biologists, and other open-source contributors, as we envision a streamlined product that makes biologically inspired design tools accessible and understandable to a wider scientific audience beyond experts in biomimicry. We are seeking engineers and researchers who may be potential users of PeTaL to test our product in the coming months. Please [reach out to us](https://www1.grc.nasa.gov/research-and-engineering/vine/contact-us/) if you are interested.
 
+-- Shruti Janardhanan
+
 ###References
 
 ​​​​​​​​​​​​​​Beltagy, I., Lo, K., & Cohan, A. (2019). SciBERT: A Pretrained Language Model for Scientific Text. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), 3615–3620. https://doi.org/10.18653/v1/D19-1371
