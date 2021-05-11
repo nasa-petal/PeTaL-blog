@@ -21,6 +21,8 @@ Put any images you want to embed in your article in `static/media/YYYY-MM-DD`
 
 Preview your blog post at `http://localhost:8000`
 
+If your changes aren't appearing as you'd expect. Stop gatsby `Ctrl+C`. Clear the gatsby cache `gatsby clean` then run `gatsby develop` again.
+
 To publish the new post to the live site run `yarn deploy`
 
 In a minute or so, your post will be live on https://nasa-petal.github.io/blog/
