@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PeTaL Blog]]></title><description><![CDATA[Latest news and updates from the PeTaL dev team.]]></description><link>https://nasa-petal.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 May 2021 19:00:18 GMT</lastBuildDate><item><title><![CDATA[Engineering Elegance from Nature: An Interactive Search Tool for Biomimetics]]></title><description><![CDATA[Biologically inspired design derived from the process of learning from nature has created an entire field that aims to integrate design approaches influenced by nature and living systems. From this stems biomimetics, an interdisciplinary design method that strives to emulate how organisms tackle fundamental problems in engineering. Bridging the gap between biological systems and human technology has incentivized a bottom-up approach for biologically inspired design that focuses on the principles of biomimicry and biomimetics. ]]></description><link>https://nasa-petal.github.io/posts/engineering-elegance-from-nature</link><guid isPermaLink="false">https://nasa-petal.github.io/posts/engineering-elegance-from-nature</guid><pubDate>Thu, 29 Apr 2021 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[PeTaL Blog]]></title><description><![CDATA[Latest news and updates from the PeTaL dev team.]]></description><link>https://nasa-petal.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 11 May 2021 15:32:58 GMT</lastBuildDate><item><title><![CDATA[Engineering Elegance from Nature: An Interactive Search Tool for Biomimetics]]></title><description><![CDATA[Biologically inspired design derived from the process of learning from nature has created an entire field that aims to integrate design approaches influenced by nature and living systems. From this stems biomimetics, an interdisciplinary design method that strives to emulate how organisms tackle fundamental problems in engineering. Bridging the gap between biological systems and human technology has incentivized a bottom-up approach for biologically inspired design that focuses on the principles of biomimicry and biomimetics. ]]></description><link>https://nasa-petal.github.io/posts/engineering-elegance-from-nature</link><guid isPermaLink="false">https://nasa-petal.github.io/posts/engineering-elegance-from-nature</guid><pubDate>Thu, 29 Apr 2021 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
@@ -175,37 +175,43 @@ How a simple text classification process with a machine learning model works (Im
 &lt;p&gt;Let’s look at a specific example: in the sentence “The dog jumped over the fence because it was being chased”, what does the word “it” refer to? By analyzing the sentence’s subject and predicate structure, we can derive that “it” is referring to the “dog”. If we were to keep adding more phrases to this sentence, it could get more complicated and difficult to understand the underlying context. However, with the Transformer’s ability to “focus” on certain areas of a sentence through attention mechanisms, it is able to understand context of all surrounding words. ​​​​​​​&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 534px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
+    href=&quot;/blog/static/52c616a5a7ac2170090894547bc7db16/29726/taxonomy.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 136.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAYAAAB836/YAAAACXBIWXMAACHVAAAh1QEEnLSdAAAFFklEQVRIx3VVa2hbZRgOiOC/4T8VBX/4w+nQH6KIoGN/xCuCG24Igqsw6Cx0PyaooDC8UAQRCsKmTBCKgtKua3qxXYu9LU3SLpemuScnJ/fLOUlOTpK2a7s+vu+bJourBj6+k+Q7z/d8z/O872cBfQpaGYlMHnm9Ct0wUTabMJrbqDS2UKnVaTRQpWeDRrW+2fq93kSNRoW+8388avSOhQGzhRIiShLBqIJSpUZ/bqJUNWURb1asGLJBkf5jgApvWG90wIwDQJ4te3t7iKsphAkwpqaRK5VRIKa8QVGvIJpIQiNwZp8rVeglAjEPg/F3o0mAjUYD/mAYUUVFIpVFKpsnkJQAJlIZ2YDZxpIZOa5OzzpJwC+3gVpz67sF+/uIZkpYjWQQVHNIFnRhFYkrUGgDzajLBjrNWrWGTFHvaFztYsejRuxFQ69awog9jOm1MKbWIrD5FcTTeRTLVURJBtaQn/MkAZvBYMySNWXwKv3GMhhtQDsBDC+tY8K+gZHldVhvejHjVrCu5MSUvFYRsGS2gGAsIcwVkUMngxqySfvolr3dHcw5PJhxRTHpDODaohvjNh/+XFzH9K0IolkNuaKGACXA6w8hRIBJ0pnjVT046qHYDFkX8Ong7xj6y4YZp1/YThH4rDuGSVccfiWD9UBImLFJbUO6h7gsptDnwsAvsBx9By+evojzX/+MaQIbX9nAmCMMqzMMRygFNZ0jdoqY0jaEgfm5PToMe78cxIMvvI8nX+/Fwy9/KKCTziCstg3MkFHT7jjCyTySmZzo2A49J4ANK5RbQ3LIgFPzq3ivfwAvnfkET73Vh0eO9+Dq9QU6dhDDix5h6UsUJJdxyqNKwMxYNqDBGufJIL1qwLK7twO9mcTWdhMfX7qMx058hCPEtverK5h2bODaggvWFT9W/AlEYnEEIjHKqCojSuFng5glJ4ErrJXDQATblPTfxufx+IkePHr8LE5e+I7cpig5Q5giY1ZCaaSITZyMUQlEpaOrGc6qIYZwHmubBxr+8asbf1v96B+4ggeePYUjz5/BeWI4sxbEKOVyZNkHWyCJTL4IhY6aKWjChhsJzzmtVf8CuH/nDsZmHTj3xY947t1+PPTKWdz/zCn8MDSBCZsHo4sujNv9cPrjCNFx/eGolCLnMUJzOl+STXguUDVZVDWJ13o+F+2Ovd2HJ149h9MXvycwL0aXvBhbCcDqCEItlEX8NLFU09xECqIfdyoGSxNr7koWr8+Pp9/sxX3HTuLoG7344LNBLLhCuL7kxhjFZnItiqVASha3I8JxKZsN6ZtlasBlbspcOWYdlkAogr5vfkLft1dxeXgOs6Qb1/OiN4YbnrgYouTL0hsZjLuOcRDqVri3uyqGmkMoGsfEshtzrjAmV0MYW/aQs0FMELMFAg2mNcpXrWOEmEFsjf8qPa4Uh9uHkfk1Ep+OSHkbvenDjVthjK/F4IlnUTNN6SYcDwbjuQN07xXAlcLHGbMHpCq4dkfJBNuGgmzZFAPYTdamzaC7MXS3/063KRpN2Kn4ufcF0jpylbpcQhXDlIUMmMoVYZAJ0ky79OsG7nSb7Z1dusFoIblV37oNc7MlssY3nNlqnCmKhUYbGGZrszbIvTqKhg0C4Qiw8P8SmV7Uqq3rk5lpfDfzXfw/oJ1bz9y8LQt0aUnbdxfQkHwR83Y0+Gbjlm/W7x7/kCksJLsoLf1eseml8oGWxkHO5Lqk9Waj2WHafQX8A7zkiPGVXh3UAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 137.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFJ0lEQVRIx3VVSYgcZRSuizcPQT1FFEQJeAmoAQ0ibqCoCIFBiMQNDZoImsUInrx4iUbxoiFCICqKMcPsKzPjJLNleqZn6670vlV3Vy/V3VVdvcy0k8nk873XSzpj0vCo6urq73/f971FAX1yZhEpo4CCXUGxsk6xgfLGv7DXKei7XamiRPcleVaT58VqDZX1DdhVjlr9dwqFAROpDILROEKxBAzTlpfN8rpcC0UbuWJZQAqlqjy36EA+yGrc83scfC+AcQIMa0n4wzECLCJPAOG4ThmXEUvoSOdMAdKJxW1gBGK3gfFVqVarUD0+BCMaovRnTc/QNQV/JEaZpxHT0yJBhA6QTImiSZkW7wBmVQjwxtYWQok0vLEUtJQhWoaimgRnzZlEk2nJjjPj35sStKg2QZuUXVoOvYshXHZFMOPRsBZKCtVM3qQMM0hkDAKuCnXWsbSxWdeZADiaMnAI4FJQR/ecByOLXnTNuDE4r2Len0QknRd9c1ZJwDKFokjC2WqpLBJpOqhUqWtaqRukbG9dx6RTRf+8B/1zbvTOujDiUNE5o2JsJQQ9ZxFYgYCz8ATCcHsDUhEpIy9gViPDJn3l5o0tDE478ef4IsacPgHrmnFh0OHB5FoYk6qGiG5g2aWKUXo2J/XaNKTdHAFkyie/+xUPvXwYB099j7Od4xgl4NEFD4acQfQ4AnD4E4iT22wS0xRD2rIS0IZJAvjx1z9h1zOH8PBLH+GRVz7Bz5fGMODwovfqNUyshvCPK4pgPE1UNcowLxmyMdJJjYJn51uFffrcJTz66hHse+sLPPbaUYpP0XVlGaOLPtLUjb7FINxaVjoqQjWqk34MzAbFqKSyZFa2YFFXlUnDm9swLAPTZMzrR74RwPv2v4sTZ34jQA96Z1ZJTy/mfXFEYnEEqJu4RqPxpByQILO4vLjD+Krc2N5C0gpwojh3cRS7n/8A9+9/Bx3HvsXwvBsDRHtkKYg5D4PoYgz3PDsdkO5KCV0Opi6U//p9GdfmNJz9exi7nj6EB1/4EAe//FHM6SfAQWcIsz4dSSpwppiWjGwJrlEOpt3qlCuXfTj/xySee+8r3LvvbdyztwMnz1zAyLxLtOyaXsPUagBhouojyuw26xcnx1nLbBuwYpomjp/+BXveOIonO05gD2m4+8XDuDjmwOBVFX1U6EMLPqjRlAyLsJagQZEkunXqPJWaV+4ghSfNEwc+wwPPvi9ls/fAMVzoncTAnAs906sYJv0GFwPQ87YIn85bLRPyRaJK9xw5y5ZJpMwtLOOpjuN4/M3PqbB/wPm+K5hYDmDc6RUzhpdCWIlmqSRKLWpFntKNGmxNHdKP56fiD0VwYWAKPVMrGHH6Bah7VsUkTZ4pd1Raj7Pi4cDCsxF5u/y/WdjsFmVFpQlzeQlDNGF6CIgHxMRKEN3UctNqTDIyaXTxHMwQMIPmeffcoY+lU7zRJIGoZIAb/Q4fOqddGFvywxFIIZTMIm3kZDzxCuCWK9xlWtuNUGJGCSPLIYyxbmsxXPUlEUwaAsL03L4gDGor3nxWY7vdadK0dgrzjhsWuUhUyvX1yZFn12hlct9y/9pEu1iuzz97B9XbxtfG5pbsYh6WvHebO8Kk7+xauXZd3OUo8c4mYLMNdCewUqltiuj8550UTLsko51ZNCdziaiLpncBVUqNYclFevvSrsm6NOkgq/0QMqcOemvptw9apUoZVogq02HtOGOOppblKgGQlreebcr3jRq9S9fme/I/+u0/6X7S5+1oRx8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/8ac56/taxonomy.webp 240w,
-/blog/static/1fd7a112edff979496179f37e0b73dfd/d3be9/taxonomy.webp 480w,
-/blog/static/1fd7a112edff979496179f37e0b73dfd/29722/taxonomy.webp 534w&quot;
-              sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
+              srcset=&quot;/blog/static/52c616a5a7ac2170090894547bc7db16/8ac56/taxonomy.webp 240w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/d3be9/taxonomy.webp 480w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/e46b2/taxonomy.webp 960w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/f992d/taxonomy.webp 1440w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/882b9/taxonomy.webp 1920w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/bf69f/taxonomy.webp 2481w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/8ff5a/taxonomy.png 240w,
-/blog/static/1fd7a112edff979496179f37e0b73dfd/e85cb/taxonomy.png 480w,
-/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png 534w&quot;
-            sizes=&quot;(max-width: 534px) 100vw, 534px&quot;
+            srcset=&quot;/blog/static/52c616a5a7ac2170090894547bc7db16/8ff5a/taxonomy.png 240w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/e85cb/taxonomy.png 480w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/d9199/taxonomy.png 960w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/07a9c/taxonomy.png 1440w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/29114/taxonomy.png 1920w,
+/blog/static/52c616a5a7ac2170090894547bc7db16/29726/taxonomy.png 2481w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/blog/static/1fd7a112edff979496179f37e0b73dfd/a07a7/taxonomy.png&quot;
+            src=&quot;/blog/static/52c616a5a7ac2170090894547bc7db16/d9199/taxonomy.png&quot;
             alt=&quot;The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&quot;
             title=&quot;The PeTaL Biomimicry Taxonomy, with Level I, II, and II subgroups&quot;
             loading=&quot;lazy&quot;
